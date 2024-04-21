@@ -39,7 +39,7 @@ function Common(props) {
           </div>
 
         <div id="footer" className=" align-items-center">
-          <p>Copyright &copy; 2021 Tushar Sharma</p>
+          <p> Design and Developed by Tushar Sharma &copy;2024</p>
       </div>
         </div>
 
