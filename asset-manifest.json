@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/tusharweb/static/css/main.2098ec72.css",
-    "main.js": "/tusharweb/static/js/main.ff99ff31.js",
-    "static/media/myphoto1.jpg": "/tusharweb/static/media/myphoto1.e6891203cd92f18ae55e.jpg",
+    "main.js": "/tusharweb/static/js/main.6a33f310.js",
+    "static/media/aboutimage.jpg": "/tusharweb/static/media/aboutimage.f3a10fd8b5544034ecd7.jpg",
     "static/media/education.jpg": "/tusharweb/static/media/education.e123582f0bbb4c0f474f.jpg",
     "static/media/homeimg.png": "/tusharweb/static/media/homeimg.341d0c0e547ce12ba95d.png",
     "static/media/portwebss.jpeg": "/tusharweb/static/media/portwebss.fe9a594e716ea221f818.jpeg",
     "static/media/certtl.png": "/tusharweb/static/media/certtl.f886fe2b99250d3b636b.png",
     "static/media/cert.png": "/tusharweb/static/media/cert.11349678870c25e968cc.png",
     "static/media/swechawebss.jpeg": "/tusharweb/static/media/swechawebss.6c5859df7b165fb82df9.jpeg",
-    "static/media/Facebooklogo.svg": "/tusharweb/static/media/Facebooklogo.c43abf2cf09825481a85709b784dee9e.svg",
+    "static/media/Facebooklogo.svg": "/tusharweb/static/media/Facebooklogo.aeb0138ec27024d1c9ea8ba57a2cab4d.svg",
     "index.html": "/tusharweb/index.html",
     "main.2098ec72.css.map": "/tusharweb/static/css/main.2098ec72.css.map",
-    "main.ff99ff31.js.map": "/tusharweb/static/js/main.ff99ff31.js.map"
+    "main.6a33f310.js.map": "/tusharweb/static/js/main.6a33f310.js.map"
   },
   "entrypoints": [
     "static/css/main.2098ec72.css",
-    "static/js/main.ff99ff31.js"
+    "static/js/main.6a33f310.js"
   ]
 }
