@@ -12,14 +12,10 @@ const AboutData = () => {
         Kubernetes for application deployment. Previously, I had the opportunity
         to intern as an SDE at Amazon, where I strengthened my foundation in
         programming languages like Java, JavaScript, and TypeScript, along with
-        cloud technologies like Amazon DynamoDB and AWS. In my free time, I've
-        participated in projects sponsored by the Department of Science and
-        Technology and built personal projects using Python, React.js, Node.js,
+        cloud technologies like Amazon DynamoDB and AWS. I've also worked on a sponsored project by BITS Pilani and built personal projects using Python, React.js, Node.js,
         and Bootstrap. I'm proficient in a range of programming languages and
         technologies, including Java, Spring Boot, MySQL, React.js,JavaScript,
         TypeScript, Python, AWS, Azure, C++, Git, Bootstrap, Amazon Dynamodb and Kubernetes.
-        <br /> I'm always eager to learn and expand my skillset, and I'm excited
-        to see what the future holds in the world of technology!
       </h5>
     </>
   );
