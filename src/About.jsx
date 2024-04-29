@@ -7,7 +7,8 @@ import AboutData from './AboutData';
 
 function About() {
   return (
-    <div>
+    <>
+         <div>
       {/* <Common 
       name="Hello Welcome to About Page " 
       visit="/contact" 
@@ -15,8 +16,8 @@ function About() {
       imgsrc={myphoto}
       /> */}
 
-      <section id="header" className="d-flex align-items-center">
-        <div className="container-fluid">
+      <div id="header" className="about section-bg">
+        <div className="container">
           <div className="row">
             <div className="col-10 mx-auto">
               <div className="row">
@@ -28,7 +29,7 @@ function About() {
                   </div>
                 </div>
 
-                <div className="col-lg-6 order-1 order-lg-2 header-img">
+                <div className="col-lg-6 order-1 order-lg-2 header-img" style={{ marginTop: '20px' }}>
                   {/* <img src={myphoto} className="img-fluid animated img-rounded" alt="home img" /> */}
                   <img src={myphoto} className="img-fluid rounded-circle" alt="home img" />
 
@@ -37,10 +38,12 @@ function About() {
             </div>
           </div>
         </div>
-      </section>
+      </div>
 
 
     </div>
+    </>
+   
   );
 }
 
