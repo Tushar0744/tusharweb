@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tusharweb/static/css/main.10bda5ac.css",
+    "main.css": "/tusharweb/static/css/main.02f988df.css",
     "main.js": "/tusharweb/static/js/main.7eaeb3c2.js",
     "static/media/aboutimage.jpg": "/tusharweb/static/media/aboutimage.f3a10fd8b5544034ecd7.jpg",
     "static/media/education.jpg": "/tusharweb/static/media/education.e123582f0bbb4c0f474f.jpg",
@@ -11,11 +11,11 @@
     "static/media/swechawebss.jpeg": "/tusharweb/static/media/swechawebss.6c5859df7b165fb82df9.jpeg",
     "static/media/Facebooklogo.svg": "/tusharweb/static/media/Facebooklogo.c43abf2cf09825481a85709b784dee9e.svg",
     "index.html": "/tusharweb/index.html",
-    "main.10bda5ac.css.map": "/tusharweb/static/css/main.10bda5ac.css.map",
+    "main.02f988df.css.map": "/tusharweb/static/css/main.02f988df.css.map",
     "main.7eaeb3c2.js.map": "/tusharweb/static/js/main.7eaeb3c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.10bda5ac.css",
+    "static/css/main.02f988df.css",
     "static/js/main.7eaeb3c2.js"
   ]
 }
